@@ -7,7 +7,7 @@
       "seed": {
         "title": "Random Seed",
         "type": "Type",
-        "description": "Set to any numeric value to generate repeatable random sequences.",
+        "description": "(hidden) Set to any numeric value to generate repeatable random sequences.",
         "default": null
       }
     },

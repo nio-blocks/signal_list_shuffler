@@ -4,7 +4,7 @@ Shuffle (randomize) the order of an incoming signal list.
 
 Properties
 ----------
-- **seed**: Set to any numeric value to generate repeatable random sequences.
+- **seed**: (hidden) Set to any numeric value to generate repeatable random sequences.
 
 Inputs
 ------
