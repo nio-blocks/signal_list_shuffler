@@ -1,7 +1,7 @@
 {
-  "namespace/BlockName": {
+  "nio/SignalListShuffler": {
     "language": "Python",
-    "version": "0.0.1",
-    "reference": "github.com/<organization>/<repo>@v0.0.1"
+    "url": "git://github.com/tyoungNIO/signal_list_shuffler.git",
+    "version": "0.1.0"
   }
 }
