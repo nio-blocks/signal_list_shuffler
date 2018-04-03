@@ -7,7 +7,7 @@ class SignalListShuffler(Block):
 
     version = VersionProperty('0.1.0')
     seed = Property(
-        title='Random Seed', default=None, allow_none=True, hidden=True)
+        title='Random Seed', default=None, allow_none=True, visible=False)
 
     def configure(self, context):
         super().configure(context)
