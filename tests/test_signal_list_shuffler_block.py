@@ -1,5 +1,4 @@
-from nio.block.terminals import DEFAULT_TERMINAL
-from nio.signal.base import Signal
+from nio import Signal
 from nio.testing.block_test_case import NIOBlockTestCase
 from ..signal_list_shuffler_block import SignalListShuffler
 
