@@ -11,7 +11,7 @@ class SignalListShuffler(Block):
 
     def configure(self, context):
         super().configure(context)
-        if self.seed():
+        if self.seed() != None:
             random.seed(int(self.seed()))
 
     def process_signals(self, signals):
